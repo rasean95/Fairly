@@ -10,7 +10,7 @@ My role as a software engineer was to design and development the appintment sche
 
 ● Designed and optimized API endpoint controllers in C# leveraging application services to facilitate appointment scheduling.
 
-● Implemented design patterns in .NET such as Singletons and Dependency Injection to find reusable solutions to common software design problems that repeatedly occured in application development.
+● Implemented design patterns in .NET such as the Singleton pattern to find reusable solutions to common software design problems that repeatedly occured in application development.
 
 ● Collaborated in a version control environment using Git, Github, and Visual Studio to manage and track source code changes to the application.
 
