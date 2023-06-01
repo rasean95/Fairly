@@ -15,16 +15,16 @@ CREATE proc [dbo].[AppointmentTypes_SelectAll]
 
 as
 
-/*
+/*----Test Code----
 
-Execute [dbo].[AppointmentTypes_SelectAll]
+	Execute [dbo].[AppointmentTypes_SelectAll]
 
 */
 
 BEGIN
 
-	SELECT [Id]
-		  ,[Name]
+	SELECT	[Id]
+		,[Name]
 
 	FROM [dbo].[AppointmentTypes]
 
