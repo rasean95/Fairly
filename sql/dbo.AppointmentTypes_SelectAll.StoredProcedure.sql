@@ -23,10 +23,10 @@ Execute [dbo].[AppointmentTypes_SelectAll]
 
 BEGIN
 
-		SELECT [Id]
-			  ,[Name]
+	SELECT [Id]
+		  ,[Name]
 
-		FROM [dbo].[AppointmentTypes]
+	FROM [dbo].[AppointmentTypes]
 
 END
 GO
