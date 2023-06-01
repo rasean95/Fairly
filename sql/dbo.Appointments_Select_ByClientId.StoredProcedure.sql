@@ -43,7 +43,6 @@ Execute [dbo].[Appointments_Select_ByClientId]
 
 
 
-
 BEGIN
 
 
@@ -53,44 +52,44 @@ Declare @offset int = @PageIndex * @PageSize
 
 
 Select app.Id as ApptId
-			,at.Id as ApptTypeId
-			,at.Name as ApptType
-			,st.Id as ApptStatusId
-			,st.Name as ApptStatus
-			,us.Id as ClientId
-			,us.FirstName
-			,us.LastName
-			,us.Mi 
-			,us.Email
-			,us.AvatarUrl
-			,app.IsConfirmed
-			,tm.UserId as TeamMemberId
-			,users.FirstName
-			,users.LastName
-			,users.Mi
-			,users.Email
-			,users.AvatarUrl
-			,app.Notes
-			,loc.Id as LocationId
-			,loc.LineOne
-			,loc.LineTwo
-			,loc.City
-			,loc.Zip
-			,app.AppointmentStart
-			,app.AppointmentEnd
-			,app.DateCreated
-			,app.DateModified
-			,u.Id
-			,u.FirstName
-			,u.LastName
-			,u.Mi
-			,u.AvatarUrl
-			,mu.Id
-			,mu.FirstName
-			,mu.LastName
-			,mu.Mi
-			,mu.AvatarUrl
-			,TotalCount = Count(1)Over()
+		,at.Id as ApptTypeId
+		,at.Name as ApptType
+		,st.Id as ApptStatusId
+		,st.Name as ApptStatus
+		,us.Id as ClientId
+		,us.FirstName
+		,us.LastName
+		,us.Mi 
+		,us.Email
+		,us.AvatarUrl
+		,app.IsConfirmed
+		,tm.UserId as TeamMemberId
+		,users.FirstName
+		,users.LastName
+		,users.Mi
+		,users.Email
+		,users.AvatarUrl
+		,app.Notes
+		,loc.Id as LocationId
+		,loc.LineOne
+		,loc.LineTwo
+		,loc.City
+		,loc.Zip
+		,app.AppointmentStart
+		,app.AppointmentEnd
+		,app.DateCreated
+		,app.DateModified
+		,u.Id
+		,u.FirstName
+		,u.LastName
+		,u.Mi
+		,u.AvatarUrl
+		,mu.Id
+		,mu.FirstName
+		,mu.LastName
+		,mu.Mi
+		,mu.AvatarUrl
+		,TotalCount = Count(1)Over()
 
 
 From dbo.Appointments as app inner join dbo.Users as us
