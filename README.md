@@ -2,9 +2,9 @@
 
 My role as a software engineer was to design and development the appintment scheduling feauture. I was required to handle all the coding from the backend to the frontend. Below is a list of the actions I took to accomplish my responsibilities:
 
-• Developed a paginated appointments page using React, JavaScript, Bootstrap, and Axios, enabling the hiring administrators to filter appointments by candidate and organize appointments more efficiently. 
+• Developed a paginated appointments page using React, JavaScript, Bootstrap, Ajax, and Axios, enabling the hiring administrators to filter appointments by candidate and organize appointments more efficiently. 
 
-• Constructed an appointment management system by seamlessly integrating React, Formik, JavaScript, Bootstrap, and Axios with a custom-designed form and authorizing access to only the system and hiring administrators. 
+• Constructed an appointment management system by seamlessly integrating React, Formik, JavaScript, Bootstrap, Ajax, and Axios with a custom-designed form and authorizing access to only the system and hiring administrators. 
 
 • Implemented design patterns in .NET, such as the Singleton pattern, to address recurring software design challenges and enhance reusability during development.
 
@@ -19,3 +19,4 @@ My role as a software engineer was to design and development the appintment sche
 • Collaborated in a version control environment using Git, GitHub, and Visual Studio to manage and track source code changes to the application.
 
 • Employed Agile methodologies such as Scrum and Kanban to deliver working software in increments, control work in progress, and ensure a continuous workflow.
+
