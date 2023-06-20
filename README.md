@@ -2,21 +2,17 @@
 
 My role as a software engineer was to design and development the appintment scheduling feauture. I was required to handle all the coding from the backend to the frontend. Below is a list of the actions I took to accomplish my responsibilities:
 
-• Constructed a paginated appointments page using React.js, JavaScript, Bootstrap, and Axios, enabling the hiring administrators to filter appointments by candidate and organize appointments more efficiently. 
+• Constructed and optimized REST API endpoint controllers leveraging application services to facilitate appointment scheduling using C# within .NET, resulting in a reduction in response time for scheduling requests.
 
-• Designed a secure appointment management system by integrating a custom Formik form with client and server-side validations that handles form submissions, with authorized access for system and hiring administrators.
+• Utilized the Model-View-Controller (MVC) pattern to streamline appointment scheduling, resulting in reduced code complexity, improved code maintainability, and enhanced modularity.
 
-• Crafted and optimized REST API endpoint controllers using C# within .NET leveraging application services to facilitate appointment scheduling.
+• Designed an appointments page using React, JavaScript, Bootstrap, and Axios, enabling administrators to organize and filter appointments by candidate, reducing loss of productivity and improving user experience. 
 
-• Implemented Design Patterns in .NET, such as the Singleton pattern, to address recurring software design challenges and enhance reusability during development.
+• Developed a secure appointment form to handle appointment management by integrating client-side and server-side validations and administrator authorization, effectively reducing scheduling errors.
 
-• Utilized the MVC ( Model-View-Controller ) pattern to streamline appointment scheduling, improve code maintainability, and enhance modularity.
+• Developed and maintained an Azure SQL database to support appointment scheduling and management, utilizing Stored Procedures, Tables, User-Defined Types, and Constraints.
 
-• Applied Object-Oriented Programming (OOP) principles using C# within .NET to construct a resilient and scalable appointment model that facilitated efficient scheduling and management processes.
+• Collaborated in a version control environment using Git with Visual Studio to manage and track source code changes to the application.
 
-• Developed and maintained an Azure SQL Server database to support appointment scheduling and management, utilizing stored procedures, tables, user-defined types, and constraints.
-
-• Collaborated in a version control environment using Git, GitHub, and Visual Studio to manage and track source code changes to the application.
-
-• Employed Agile methodologies such as Scrum to deliver working software in increments, control work in progress, and ensure a continuous workflow.
+• Employed Agile Methodologies such as Scrum to deliver working software in increments, control work in progress, and ensure a continuous workflow.
 
