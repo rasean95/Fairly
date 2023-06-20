@@ -10,7 +10,7 @@ My role as a software engineer was to design and development the appintment sche
 
 • Developed a secure appointment form to handle appointment management by integrating client-side and server-side validations and administrator authorization, effectively reducing scheduling errors.
 
-• Developed and maintained an Azure SQL database to support appointment scheduling and management, utilizing Stored Procedures, Tables, User-Defined Types, and Constraints.
+• Developed and maintained an Azure SQL database with SQL Server to support appointment scheduling and management, utilizing Stored Procedures, Tables, User-Defined Types, and Constraints.
 
 • Collaborated in a version control environment using Git with Visual Studio to manage and track source code changes to the application.
 
