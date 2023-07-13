@@ -2,16 +2,15 @@
 
 My role as a software engineer was to design and development the appintment scheduling feauture. I was required to handle all the coding from the backend to the frontend. Below is a list of the actions I took to accomplish my responsibilities:
 
-• Constructed and optimized REST API endpoint controllers leveraging application services to facilitate appointment scheduling using C# within .NET, reducing response time for scheduling requests.
+• Developed a robust appointments dashboard using React and Bootstrap, featuring advanced filtering capabilities and integrated management features for the hiring admin team, reducing scheduling complexities.
 
-• Utilized the Model-View-Controller (MVC) pattern to streamline appointment scheduling, resulting in reduced code complexity, improved code maintainability, and enhanced modularity.
+• Implemented a custom form using Formik that handles appointment management, reducing scheduling errors.
 
-• Designed an appointments page using React, JavaScript, Bootstrap, and Axios, enabling administrators to organize appointments by candidate, reducing loss of productivity and improving user experience. 
+• Built REST API endpoint controllers using C# and .NET, reducing response time for appointment scheduling.
 
-• Developed a secure appointment form to handle appointment management by integrating client-side and server-side validations and administrator authorization, effectively reducing scheduling errors.
+• Designed and maintained an Azure SQL database with SQL Server to support data management.
 
-• Developed and maintained an Azure SQL database with SQL Server to support appointment scheduling and management, utilizing Stored Procedures, Tables, User-Defined Types, and Constraints.
+• Collaborated in a version control environment using GitBash and Visual Studio for source code management.
 
-• Collaborated in a version control environment using GitBash and Visual Studio to manage and track source code changes in the application.
+• Leveraged Scrum for iterative software delivery and streamlined workflow.
 
-• Employed Agile Methodologies such as Scrum to deliver working software in increments, control work in progress, and ensure a continuous workflow.
